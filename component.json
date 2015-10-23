@@ -1,6 +1,6 @@
 {
   "name": "angular-ui-router",
-  "version": "0.2.15",
+  "version": "0.2.15-dev-2015-10-23",
   "description": "State-based routing for AngularJS",
   "keywords": [
     "angular",
